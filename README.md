@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Luciano, tenho 23 anos e sou natural de Manaus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão. Sou apaixonada por tecnologia e pela capacidade que ela tem de transformar vidas e conectar pessoas. Tenho interesse em desenvolvimento de software, inovação e sempre busco aprender e me atualizar sobre as tendências do mercado. Estou motivada a construir uma carreira sólida na área e contribuir para soluções tecnológicas que façam a diferença no mundo.
+Me chamo Luciano, tenho 23 anos e sou natural de Manaus. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Martha Falcão. Sou apaixonado por tecnologia e pela capacidade que ela tem de transformar vidas e conectar pessoas. Tenho interesse em desenvolvimento de software, inovação e sempre busco aprender e me atualizar sobre as tendências do mercado. Estou motivada a construir uma carreira sólida na área e contribuir para soluções tecnológicas que façam a diferença no mundo.
 ---
 #### 📫 Contatos:
 
