@@ -13,12 +13,16 @@ Estou comprometido com o aprendizado contínuo e busco construir uma carreira s�
 ## 📫 Contatos
 
 <div>
-<a href = "mailto:lucianomaciel53@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/luciano-sena-maciel-525960199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/luc1an0s.jpg?igsh=MXMxMGo0OHZmMDFkaA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:lucianomaciel53@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/luciano-sena-maciel-525960199/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/luc1an0s.jpg?igsh=MXMxMGo0OHZmMDFkaA==" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
-
----
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -43,5 +47,5 @@ Estou comprometido com o aprendizado contínuo e busco construir uma carreira s�
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [StockAlertApi]([https://github.com/seu-usuario/StockAlertApi](https://github.com/Luc1an0s/KBV-2025-BOB01-StockAlertApi)) | Sistema automatizado que monitora estoques via Google Sheets e envia alertas por WhatsApp e e-mail. | Python • GitHub Actions • Bubble API • Google Sheets API |
+|  <a href="https://github.com/Luc1an0s/KBV-2025-BOB01-StockAlertApi" target="_blank">StockAlertApi</a> | Sistema automatizado que monitora estoques via Google Sheets e envia alertas por WhatsApp e e-mail. | Python • GitHub Actions • Bubble API • Google Sheets API |
 ---
