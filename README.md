@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Luciano Sena
+# 👨🏻‍💻 Luciano Maciel
 
 **`Desenvolvedor`**
 
