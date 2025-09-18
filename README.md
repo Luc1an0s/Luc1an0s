@@ -6,7 +6,7 @@ Sou Luciano Sena, desenvolvedor júnior natural de Manaus (AM), atualmente cursa
 
 Atualmente atuo como **Analista de Desenvolvimento Júnior**, contribuindo com projetos que envolvem automação de processos, análise de dados e integração entre sistemas. Tenho experiência prática com **Python**, **SQL**, **Google Sheets API**, **GitHub Actions**, e **Bubble API**, além de interesse crescente em **Machine Learning** e **ciência de dados**.
 
-Estou comprometido com o aprendizado contínuo e busco construir uma carreira sólida em **engenharia de software**, com foco em soluções inteligentes, escaláveis e que gerem 
+Estou comprometido com o aprendizado contínuo e busco construir uma carreira sólida em **engenharia de software**, com foco em soluções inteligentes, escaláveis e que gerem valor real para usuários e negócios.
 ---
 #### 📫 Contatos:
 
