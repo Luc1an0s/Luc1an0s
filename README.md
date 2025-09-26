@@ -48,4 +48,6 @@ Estou comprometido com o aprendizado contínuo e busco construir uma carreira s�
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 |  <a href="https://github.com/Luc1an0s/KBV-2025-BOB01-StockAlertApi" target="_blank">StockAlertApi</a> | Sistema automatizado que monitora estoques via Google Sheets e envia alertas por WhatsApp e e-mail. | Python • GitHub Actions • Bubble API • Google Sheets API |
+|--------|-----------|-------------|
+|  <a href="https://github.com/Luc1an0s/SmartInventory" target="_blank">SmartInventory</a> | Projeto de automação para monitoramento inteligente de estoque, desenvolvido em Python e SQLite | Python • GitHub Actions • SQLite |
 ---
