@@ -23,9 +23,8 @@ Estou comprometido com o aprendizado contínuo e busco construir uma carreira s�
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://lucianomaciel.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=internet-explorer&logoColor=white">
-</a>
-
+  <img src="https://img.shields.io/badge/Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </div>
 
 ## 🤖 Linguagens e Tecnologias
