@@ -16,7 +16,7 @@ Estou comprometido com o aprendizado cont√≠nuo e busco construir uma carreira s√
   <a href="mailto:lucianomaciel53@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/luciano-sena-maciel-525960199/" target="_blank">
+  <a href="https://www.linkedin.com/in/luciano-sena-maciel/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/luc1an0s.jpg?igsh=MXMxMGo0OHZmMDFkaA==" target="_blank">
